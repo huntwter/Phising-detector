@@ -1,0 +1,10 @@
+{
+  "nuitka": {
+    "module": true,
+    "recurse-all": true,
+    "follow-imports": true,
+    "remove-output": true,
+    "lto": "yes",
+    "clang": true
+  }
+}

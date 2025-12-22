@@ -1,0 +1,10 @@
+obfuscation:
+  enabled: true
+  method: nuitka  # or cython
+  modules_to_compile:
+    - src.core.lexical_engine
+    - src.core.network_engine
+    - src.core.visual_engine
+    - src.core.ml_engine
+  exclude:
+    - src.core.shared_kernel.data_models  # Pydantic models might have issues if compiled

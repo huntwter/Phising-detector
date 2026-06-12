@@ -1,9 +1,9 @@
 # Advanced Phishing Detection System (APDS)
 
-## ⚠️ Proprietary & Confidential
+## Apache Licensed 
 **Copyright (c) 2026. All Rights Reserved.**
 
-This repository contains the source code for the high-performance Advanced Phishing Detection System. It is architected using Domain-Driven Design (DDD) principles to support massive scale and security.
+This repository contains the source code for the  Phishing Detection System. It is architected using Domain-Driven Design (DDD) principles to support massive scale and security.
 
 ## Architectural Overview
 
@@ -33,4 +33,4 @@ The system is designed as a **Modular Monolith** with a strict separation of con
 
 ## License
 
-See `LICENSE` file. Strictly Proprietary.
+See `LICENSE` file.
